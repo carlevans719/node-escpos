@@ -20,9 +20,10 @@
     "usb"
   ],
   "dependencies": {
-    "usb": "*",
+    "get-pixels": "^3.3.0",
     "iconv-lite": "*",
-    "ink-docstrap": "^0.3.0-0"
+    "ink-docstrap": "^0.3.0-0",
+    "usb": "*"
   },
   "devDependencies": {
     "nodeunit": "*",
