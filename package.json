@@ -23,6 +23,7 @@
     "get-pixels": "^3.3.0",
     "iconv-lite": "*",
     "ink-docstrap": "^0.3.0-0",
+    "jimp": "^0.2.24",
     "usb": "*"
   },
   "devDependencies": {
