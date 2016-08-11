@@ -24,6 +24,7 @@
     "iconv-lite": "*",
     "ink-docstrap": "^0.3.0-0",
     "jimp": "^0.2.24",
+    "pdf-image": "^1.1.0",
     "usb": "*"
   },
   "devDependencies": {
